@@ -326,6 +326,11 @@ a:focus{
 
 .navbar-brand{
 	padding: 1px 15px;
+	color: #fff!important;
+    line-height: 50px;
+    font-family: times;
+    font-size: 30px;
+	text-transform: uppercase;
 }
 
 .navbar-brand img{
@@ -490,7 +495,7 @@ a:focus{
 	padding-bottom: 10px;
 }
 
-.header-banner h3{
+.header-banner h1{
 	font-size: 50px;
 	color: rgba(255,255,255,1);
 	font-weight: 600;
@@ -848,6 +853,7 @@ a:focus{
 	background: rgba(255,255,255,0.16);
 	padding: 30px;
 	text-align: center;
+	min-height:470px;
 }
 
 .testimonial-single .icon-box{
